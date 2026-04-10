@@ -47,3 +47,18 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Large data files
+*.tsv
+*.gz
+*.bam
+*.bed
+
+# R files
+.Rhistory
+.RData
+.Rproj.user
+
+# Results that are too large
+data/GCST90132314*
+data/GCST90132223*
