@@ -52,6 +52,8 @@ Epidemiological studies have established that autoimmune diseases significantly 
 Functional validation confirms these variants regulate HLA-C expression in whole blood, suggesting a shared immune-mediated regulatory mechanism underlying both diseases. Differential H3K27ac signal strength between T cells and monocytes indicates potential cell-type specific regulatory effects warranting further investigation.
 
 ## Repository Structure
+
+```
 GWAS-CAD-RA-Analysis/
 │
 ├── scripts/
@@ -68,6 +70,7 @@ GWAS-CAD-RA-Analysis/
 │   └── Workflow.md             # Documented biological interpretation
 │
 └── README.md
+```
 
 ## Data Availability
 Raw GWAS summary statistics are publicly available from:
