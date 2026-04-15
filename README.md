@@ -15,7 +15,6 @@ Epidemiological studies have established that autoimmune diseases significantly 
 |---|---|
 | Command Line | bash, awk, grep, sort, bedtools v2.30.0 |
 | Languages | Python 3.9.21, R 4.3.x |
-| R Packages | TwoSampleMR, ieugwasr, ggplot2, dplyr |
 | Databases | EBI GWAS Catalog, ENCODE, UCSC Genome Browser, eQTLGen |
 | Genome Build | GRCh37/hg19 |
 
